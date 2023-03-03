@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Ice Kernel by Seraph
+kernel.string=Feather Kernel by Seraph
 do.devicecheck=1
 do.modules=1
 do.systemless=1
