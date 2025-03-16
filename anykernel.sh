@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Void Kernel by Seraph
+kernel.string=KernelSu for Stock by Chase
 do.devicecheck=1
 do.modules=1
 do.systemless=1
